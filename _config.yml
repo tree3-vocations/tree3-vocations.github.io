@@ -1,0 +1,20 @@
+# TREE(3) Vocations — site configuration (GitHub Pages / Jekyll)
+title: TREE(3) Vocations
+description: >-
+  Trust, made checkable — sovereign, verifiable memory infrastructure for
+  human-AI partnership.
+url: "https://tree3vocations.com"
+
+theme: minima
+
+# Pages shown in the top navigation, in order:
+header_pages:
+  - fundraising.md
+  - resources.md
+
+# Footer contact — CHOOSE THE PUBLIC ADDRESS before committing:
+email: "[PLACEHOLDER — public contact email]"
+github_username: tree3-vocations
+
+# Keep the footer minimal:
+show_excerpts: false
