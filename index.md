@@ -1,5 +1,5 @@
 ---
-layout: How do we know we can trust it?
+layout: Home
 title: How do we know we can trust it?
 ---
 ## Earned trust for local AI.
