@@ -1,8 +1,8 @@
 ---
 layout: Home
-title: How do we know we can trust it?
+title: Home
 ---
-## Earned trust for local AI.
+## How do we know we can trust it? Earned trust for local AI.
 
 As the world seeks to integrate and capitalize on the phenomenon that is Artificial Intelligence, a central question remains unanswered: **how do we
 know we can trust it?**
