@@ -40,4 +40,4 @@ component ships.
 
 ## Contact
 
-[PLACEHOLDER — one line: preferred public contact route.]
+ravenpaige58@gmail.com
