@@ -7,12 +7,18 @@ url: "https://tree3vocations.com"
 
 theme: minima
 
+# Markdown: never turn a line break in the source into a break on the page.
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 # Pages shown in the top navigation, in order:
 header_pages:
   - fundraising.md
   - resources.md
 
-# Footer contact — CHOOSE THE PUBLIC ADDRESS before committing:
+# Footer contact:
 email: "ravenpaige58@gmail.com"
 github_username: tree3-vocations
 
