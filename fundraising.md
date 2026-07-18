@@ -12,21 +12,15 @@ deliverables are released publicly.
 
 | Campaign | Scope | Status |
 |---|---|---|
-| **The Sovereign Memory Toolkit** (Manifund) | Documentation, usability layer, and open-source release of the Citadel memory system — 90 days | [PLACEHOLDER — link + "live" once posted] |
+| **The Sovereign Memory Toolkit** (Manifund) | Documentation, usability layer, and open-source release of the Citadel memory system — 90 days | https://manifund.org/projects/earned-trust-for-local-ai |
 | **SFF 2026 S-Process** (Survival & Flourishing Fund) | Core infrastructure, governance protocols, and training-system development — 12 months | Under consideration; decision expected fall 2026 |
 
 ## Raised to date
 
-- [PLACEHOLDER — CONFIRM BEFORE PUBLISHING: "$10,000 — Survival and
-  Flourishing Fund Speculation Grant, June 2026." Publishing the amount is
-  normal in this funding community and SFF grants become public in their own
-  records, but it's your call to state it here. If unsure, the row can read
-  "Speculation Grant — Survival and Flourishing Fund, June 2026" without a
-  figure.]
+- $10,000 — Survival and Flourishing Fund Speculation Grant, June 2026.
+*Last updated: July 17, 2026*
 
-*Last updated: [date — edit this line whenever the table changes].*
-
-## Why fund this
+## Why fund thisHere
 
 The industry is building AI agent *identity* infrastructure this year.
 Identity answers who an agent is registered to. Trust requires more: memory
