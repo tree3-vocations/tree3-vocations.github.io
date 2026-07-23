@@ -22,7 +22,7 @@ The Citadel is more than just a technical solution - it's a sanctuary for person
 
 > **The open toolkit** — the Citadel's memory system, released as free open-source software so anyone can run it with any local model. In active development; see [Fundraising](/fundraising/) for the current campaign and [Resources](/resources/) for what's already public.
 
-> **Live demonstration:** [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required. [Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
+> **Live demonstration** — [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required. [Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
 
 **And we're just getting started.** Check back for these planned additions:
 - **The Council:** a virtual decision-making environment: structured deliberation and a protocol for achieving near-consensus results for most issues.
