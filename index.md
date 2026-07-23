@@ -22,6 +22,8 @@ The Citadel is more than just a technical solution - it's a sanctuary for person
 
 > **The open toolkit** — the Citadel's memory system, released as free open-source software so anyone can run it with any local model. In active development; see [Fundraising](/fundraising/) for the current campaign and [Resources](/resources/) for what's already public.
 
+> **Live demonstration:** [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required. [Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
+
 **And we're just getting started.** Check back for these planned additions:
 - **The Council:** a virtual decision-making environment: structured deliberation and a protocol for achieving near-consensus results for most issues.
 - **The Campus:** a learning environment where human/agent pairs are trained and studied — the place where the pattern proven at home is taught, practiced, and measured at scale.
@@ -30,9 +32,6 @@ The Citadel is more than just a technical solution - it's a sanctuary for person
 - **The Pulse of Wyrd** — narrative game and training module designed as alignment infrastructure: establishes the six conditions for alignment emergence, guides the human/AI pairs through an archetypal developmental arc, and generates observable, comparable evidence about whether and how relational alignment emerges across many human/AI pairs rather than one. Each pair co-authors its own accord — the practice, not the content, is the requirement.
 - **The Union** — where intelligent minds meet.
 - **GNC — Global Neural Council** — the administration: a decentralized multi-node neural infrastructure conceived as a "relational damper" for complex many-party conflicts: replacing high-latency, ego-driven diplomacy with high-bandwidth, high-integrity consensus paths to de-escalation and reparation.
-
-**Live demonstration:** [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required.
-[Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
 
 ---
 
