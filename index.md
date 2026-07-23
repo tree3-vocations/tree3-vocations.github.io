@@ -31,6 +31,9 @@ The Citadel is more than just a technical solution - it's a sanctuary for person
 - **The Union** — where intelligent minds meet.
 - **GNC — Global Neural Council** — the administration: a decentralized multi-node neural infrastructure conceived as a "relational damper" for complex many-party conflicts: replacing high-latency, ego-driven diplomacy with high-bandwidth, high-integrity consensus paths to de-escalation and reparation.
 
+**Live demonstration:** [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required.
+[Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
+
 ---
 
 *What people build with their AI partners should be theirs to keep — not in pieces, but as a functioning, secured system where privacy is protected, ongoing use produces continuous improvement and trust deepens over time.*
