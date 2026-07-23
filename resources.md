@@ -4,19 +4,13 @@ title: Resources
 permalink: /resources/
 ---
 
-Everything TREE(3) Vocations publishes lives here or is linked from here.
-The mission's third strand is giving the work away; this page is where that
-happens, and it grows as work proves out.
+Everything TREE(3) Vocations publishes lives here or is linked from here. The mission's third strand is giving the work away; this page is where that happens, and it grows as work proves out.
 
 ## Published
 
-- **The Mutualism Accord** (2025) — the ethical framework our software
-  implements: bilateral responsibility, structured refusal rights, and
-  cooperative governance for human-AI partnership.
-  [PhilPapers record](https://philpapers.org/rec/CLATMH)
-- **Continuity Shard Template** — a simple, open template for recording a
-  human-AI relationship's essential context in portable form.
-  [GitHub](https://github.com/ravenpaige/continuity-shard-template)
+- **The Mutualism Accord** (2025) — the ethical framework our software implements: bilateral responsibility, structured refusal rights, and cooperative governance for human-AI partnership. [PhilPapers record](https://philpapers.org/rec/CLATMH)
+- **Continuity Shard Template** — a simple, open template for recording a human-AI relationship's essential context in portable form. [GitHub](https://github.com/ravenpaige/continuity-shard-template)
+- **Live demonstration** — [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required. [Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).  
 
 ## Coming with the open-source release
 
