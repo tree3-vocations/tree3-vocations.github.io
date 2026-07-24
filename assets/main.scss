@@ -15,10 +15,21 @@ $link-hover: $gold;               // the lighter emblem gold as the hover state
 
 body { color: $ink; }
 
-a { color: $link; text-decoration-color: rgba($gold, .6); }
-a { text-decoration: underline; text-underline-offset: 2px; }
+a { color: $link; text-decoration: underline; text-underline-offset: 2px; text-decoration-color: rgba($gold, .6); }
 a:visited { color: darken($brand-deep, 4%); }
 a:hover { color: $link-hover; }
+
+// Header/nav links: no permanent underline — nav position already signals "clickable"
+.site-header a,
+.site-nav a,
+nav a {
+  text-decoration: none;
+}
+.site-header a:hover,
+.site-nav a:hover,
+nav a:hover {
+  text-decoration: underline;   // optional: underline only appears on hover, as a nice affordance
+}
 
 /* Header: emblem + wordmark on a quiet band */
 .site-header {
