@@ -16,6 +16,7 @@ $link-hover: $gold;               // the lighter emblem gold as the hover state
 body { color: $ink; }
 
 a { color: $link; text-decoration-color: rgba($gold, .6); }
+a { text-decoration: underline; text-underline-offset: 2px; }
 a:visited { color: darken($brand-deep, 4%); }
 a:hover { color: $link-hover; }
 
