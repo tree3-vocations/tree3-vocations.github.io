@@ -23,6 +23,10 @@ When doubt is universal, the liar wins by default. Scholars have a name for this
 
 So "trust nothing" isn't neutral. An environment where nothing can be verified structurally favors whoever has something to hide.
 
+## Contact
+
+spark@tree3vocations.com
+
 The answer isn't "trust nothing." It isn't "trust everything" either. It's **trust what you can check** — and knowing how much to check, based on how much it matters.
 
 ---
