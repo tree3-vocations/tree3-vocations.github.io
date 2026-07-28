@@ -26,5 +26,9 @@ The industry is building AI agent *identity* infrastructure this year. Identity 
 
 As the industry develops this identity infrastructure, we're focused on building the next layer: verifiable memory, tamper-evident records, and governance that empowers individuals in the relationship. That layer is what we build — and give away. By supporting our work, you'll be contributing to a future where trust is not just a promise, but a provable reality. 
 
+## Contact
+
+spark@tree3vocations.com
+
 ## Why fund this?
 If you've reached this point, it's likely because you share our vision for a world where AI systems are built on trust, transparency, and mutual respect. Your support would mean the world to us, as it would enable us to continue developing and sharing the Citadel memory system, empowering individuals to build strong, trustworthy relationships with their AI partners. Every contribution, no matter the size, brings us closer to a future where humans and machines collaborate in harmony.
