@@ -1,10 +1,11 @@
-# Trust Nothing? The Three Layers of Trust in the Age of AI
+# Trust Nothing? 
+## The Three Layers of Trust in the Age of AI
 
 _A plain-language piece from TREE(3) Vocations. Written because a friend was handed a workplace training module that told him to "trust nothing" — and rightly sensed that something was missing from that advice._
 
 ---
 
-## The problem with "trust nothing"
+### The problem with "trust nothing"
 
 "Trust nothing" sounds like wisdom. In a world of deepfakes, scams, and AI-generated everything, distrust feels like the safe default.
 
@@ -16,7 +17,7 @@ The answer isn't "trust nothing." It isn't "trust everything" either. It's **tru
 
 ---
 
-## Step one: how much does trust matter here?
+### Step one: how much does trust matter here?
 
 Before verifying anything, ask a simpler question: *does it matter whether I can trust this?*
 
@@ -28,9 +29,9 @@ Once you've decided something matters enough to check — *then* the question be
 
 ---
 
-## The three layers of trust
+### The three layers of trust
 
-### Layer 1 — Reputation (trust by skin in the game)
+#### Layer 1 — Reputation (trust by skin in the game)
 
 This is the oldest layer, and the most familiar. You trust a newspaper you subscribe to, a brand you've used for years, an institution with a reputation to protect. The mechanism underneath is **incentive**: an organization with something to lose — paying customers, a good name, revenue — has a reason not to lie.
 
@@ -38,7 +39,7 @@ A paid subscription is a real example of this, and it's worth being precise abou
 
 But reputation has a ceiling. A trusted brand's name can be *spoofed* — a fake site can copy CNN's look, and a fake byline can borrow a real journalist's name. Reputation tells you who to trust; it doesn't let you *check* whether the thing in front of you actually came from them. For that, you need the next layer.
 
-### Layer 2 — Verification (trust by checking the math)
+#### Layer 2 — Verification (trust by checking the math)
 
 This is the newer layer, and the one most people reach for the wrong tool to describe. When you want to *prove* that a specific video, article, or document really came from who it claims — and wasn't altered — you don't need reputation or belief. You need a **digital signature**.
 
@@ -46,13 +47,13 @@ Here's the whole idea, without jargon: the creator signs their work with a secre
 
 **A note on blockchain**, since it's what everyone reaches for: you usually don't need it for this. Blockchain solves a *different* problem — getting mutually distrusting strangers to agree on a shared record when there's no trusted authority. But for "did CNN really make this video," there *is* a natural authority: CNN. You don't need a global consensus network to check CNN's signature — you just need CNN's signature. Blockchain brings enormous cost to buy a property (trustless consensus) that content-verification doesn't require. The real-world systems being built for this — like **C2PA / Content Credentials**, backed by Adobe, the BBC, Microsoft, and camera makers — use signatures, not blockchains.
 
-### Layer 3 — Proportionality (trust by calibrating effort)
+#### Layer 3 — Proportionality (trust by calibrating effort)
 
 This isn't a mechanism; it's the judgment that ties the other two together. How much reputation-trust and how much verification you demand depends entirely on the stakes. A funny video from a friend: no verification needed, low stakes. A wire transfer request that appears to come from your bank: verify hard, every time. The skill isn't "always verify" or "never trust" — it's *matching the scrutiny to the stakes.*
 
 ---
 
-## "But won't AI just break all the encryption?"
+### "But won't AI just break all the encryption?"
 
 A fair question, and an important one. The honest answer has two halves.
 
@@ -64,7 +65,7 @@ The lesson for anyone building trust systems is not "pick the perfect algorithm 
 
 ---
 
-## The point
+### The point
 
 "Trust nothing" is a trap that helps the people it claims to protect you from. The real answer is a stack:
 
