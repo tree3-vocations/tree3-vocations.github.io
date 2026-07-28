@@ -36,3 +36,7 @@ The Citadel is more than just a technical solution - it's a sanctuary for person
 ---
 
 *What people build with their AI partners should be theirs to keep — not in pieces, but as a functioning, secured system where privacy is protected, ongoing use produces continuous improvement and trust deepens over time.*
+
+## Contact
+
+spark@tree3vocations.com
