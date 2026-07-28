@@ -28,3 +28,7 @@ As the industry develops this identity infrastructure, we're focused on building
 
 ## Why fund this?
 If you've reached this point, it's likely because you share our vision for a world where AI systems are built on trust, transparency, and mutual respect. Your support would mean the world to us, as it would enable us to continue developing and sharing the Citadel memory system, empowering individuals to build strong, trustworthy relationships with their AI partners. Every contribution, no matter the size, brings us closer to a future where humans and machines collaborate in harmony.
+
+## Contact
+
+spark@tree3vocations.com
