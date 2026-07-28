@@ -1,3 +1,10 @@
+---
+layout: page
+title: Trust Nothing?
+permalink: /trustnothing/
+---
+
+
 # Trust Nothing? 
 ## The Three Layers of Trust in the Age of AI
 
