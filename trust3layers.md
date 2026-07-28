@@ -15,14 +15,17 @@ _A plain-language piece from TREE(3) Vocations. Written because a friend was han
 
 "Trust nothing" sounds like wisdom. In a world of deepfakes, scams, and AI-generated everything, distrust feels like the safe default.
 
-But "trust nothing" is not actually safe — it's paralyzing, and worse, it quietly helps the wrong people. Here's why: if *nothing* can be trusted, then *nothing* can be proven, and anyone caught doing wrong gets a free escape hatch — *"How do you know that's real? Could be fake."* When doubt is universal, the liar wins by default. Scholars have a name for this: the **liar's dividend** — the more people believe anything *could* be fake, the easier it becomes for the genuinely guilty to wave away real evidence.
+But "trust nothing" is not actually safe — it's paralyzing, and worse, it quietly helps the wrong people. Here's why: if *nothing* can be trusted, then *nothing* can be proven, and anyone caught doing wrong gets a free escape hatch: 
+
+— *"How do you know that's real? Could be fake."* 
+
+When doubt is universal, the liar wins by default. Scholars have a name for this: the **liar's dividend** — the more people believe anything *could* be fake, the easier it becomes for the genuinely guilty to wave away real evidence.
 
 So "trust nothing" isn't neutral. An environment where nothing can be verified structurally favors whoever has something to hide.
 
 The answer isn't "trust nothing." It isn't "trust everything" either. It's **trust what you can check** — and knowing how much to check, based on how much it matters.
 
 ---
-
 ### Step one: how much does trust matter here?
 
 Before verifying anything, ask a simpler question: *does it matter whether I can trust this?*
@@ -34,7 +37,6 @@ This is the first and most-skipped step. "Trust nothing" fails partly because it
 Once you've decided something matters enough to check — *then* the question becomes *how*. And there are three different layers of trust, often confused for one another.
 
 ---
-
 ### The three layers of trust
 
 #### Layer 1 — Reputation (trust by skin in the game)
@@ -58,19 +60,17 @@ Here's the whole idea, without jargon: the creator signs their work with a secre
 This isn't a mechanism; it's the judgment that ties the other two together. How much reputation-trust and how much verification you demand depends entirely on the stakes. A funny video from a friend: no verification needed, low stakes. A wire transfer request that appears to come from your bank: verify hard, every time. The skill isn't "always verify" or "never trust" — it's *matching the scrutiny to the stakes.*
 
 ---
-
 ### "But won't AI just break all the encryption?"
 
 A fair question, and an important one. The honest answer has two halves.
 
 **The threat is real, and it's specific.** It isn't really AI — it's **quantum computers**, which can run an algorithm (Shor's) that breaks exactly the kind of public-key cryptography that digital signatures rely on today. Expert consensus puts a meaningful chance of this within roughly ten years, and in June 2026 the U.S. government set deadlines (2030–2031) for federal systems to migrate. This is not science fiction; it's on real compliance calendars.
 
-**But the defense already exists — your friend is right.** When one kind of lock breaks, a stronger one replaces it. The replacement here isn't hypothetical: standards bodies have *already* finalized "post-quantum" cryptography designed to resist quantum attacks, and major infrastructure (Chrome, Cloudflare) has *already* deployed it — today, most browser traffic to Cloudflare is quantum-resistant. The arms race is real, and right now the defenders are keeping pace.
+**But the defense already exists.** When one kind of lock breaks, a stronger one replaces it. The replacement here isn't hypothetical: standards bodies have *already* finalized "post-quantum" cryptography designed to resist quantum attacks, and major infrastructure (Chrome, Cloudflare) has *already* deployed it — today, most browser traffic to Cloudflare is quantum-resistant. The arms race is real, and right now the defenders are keeping pace.
 
 The lesson for anyone building trust systems is not "pick the perfect algorithm forever." No algorithm is forever. The lesson is **crypto-agility**: build systems that can *swap* their cryptography when the standard moves, the way you'd replace a lock without rebuilding the house. A well-designed verifiable-trust system isn't betting on one unbreakable code. It's built to change its locks — in the open, on the record — as the world changes.
 
 ---
-
 ### The point
 
 "Trust nothing" is a trap that helps the people it claims to protect you from. The real answer is a stack:
