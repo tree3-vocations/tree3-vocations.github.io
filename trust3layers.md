@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Trust Nothing?
-permalink: /trustnothing/
+permalink: /trust3layers/
 ---
 
 
-# Trust Nothing? 
 ## The Three Layers of Trust in the Age of AI
 
 _A plain-language piece from TREE(3) Vocations. Written because a friend was handed a workplace training module that told him to "trust nothing" — and rightly sensed that something was missing from that advice._
