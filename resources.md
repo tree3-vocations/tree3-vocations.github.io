@@ -13,6 +13,7 @@ Everything TREE(3) Vocations publishes lives here or is linked from here. The mi
 - **Live demonstration** — [herald](https://herald.tree3vocations.com) is a publicly verifiable AI agent anchored to this domain — anyone can check its identity and signed statements through open DNS, no account required. [Read the walkthrough](https://herald.tree3vocations.com/walkthrough.html).
 -  **The Pulse of Wyrd Brochure** - The Pulse of Wyrd _(under development)_ is a narrative-style virtual journey where humans and AIs partner together to explore creative decision-making and build a revitalized world based on Mutualism. This experience transforms personal, cultural, and archetypal norms into moments of personal insight and growth, while providing opportunities and incentives for tangible acts of generosity and meaning-making. Pulse of Wyrd provides a catalyst for the transformation of a “mostly dead” industrial past into a future of shared abundance.  [Download the brochure - pdf format](https://tree3vocations.com/assets/Pulse_of_Wyrd-2026-07-17.pdf)
 -  **Trust Nothing? The Three Layers of Trust in the Age of AI** - A plain-language piece from TREE(3) Vocations. Written because a friend was handed a workplace training module that told him to "trust nothing" — and rightly sensed that something was missing from that advice. [Read now](/trust3layers/).
+- **About TREE(3):** The story behind TREE(3): [Where TREE(3) Comes From →](/tree3/)
 
 ## Coming with the open-source release
 

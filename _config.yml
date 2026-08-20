@@ -1,26 +1,29 @@
-# TREE(3) Vocations — site configuration (GitHub Pages / Jekyll)
+# TREE(3) Vocations — GitHub Pages / Jekyll
+
 title: TREE(3) Vocations
 description: >-
-  Trust, made checkable — sovereign, verifiable memory infrastructure for
-  human-AI partnership.
+  Relational alignment, accountable agent governance, and moral practice
+  for trustworthy human-AI partnership.
+
 url: "https://tree3vocations.com"
 
 theme: minima
 
-# Markdown: never turn a line break in the source into a break on the page.
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 
-# Pages shown in the top navigation, in order:
+# Top navigation
 header_pages:
-  - fundraising.md
+  - about.md
+  - little-city.md
+  - campus.md
+  - union.md
   - resources.md
+  - fundraising.md
 
-# Footer contact:
 email: "spark@tree3vocations.com"
 github_username: tree3-vocations
 
-# Keep the footer minimal:
 show_excerpts: false
