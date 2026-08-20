@@ -6,6 +6,13 @@ permalink: /union/
 
 **Where trust becomes public and portable.**
 
+<div class="page-image">
+  <img
+    src="{{ '/assets/images/union.jpg' | relative_url }}"
+    alt="The Union, a distributed peer-to-peer network for public and portable trust"
+  >
+</div>
+
 The Union is a planned peer-to-peer index and library for durable artifacts.
 
 It is designed to answer a deceptively simple question:
