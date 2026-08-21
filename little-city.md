@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: The Little City
 permalink: /little-city/
 ---
