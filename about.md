@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: About TREE(3) Vocations
 permalink: /about/
 ---
-
-**About TREE(3) Vocations**
-
 TREE(3) Vocations is an independent AI research and development company focused on **relational alignment, co-safeguarding, agent governance, and the development of systems that produce trustworthy AI agents for consequential real-world applications.**
 
 Our work explores how to enable AI systems to act with increasing independence while remaining transparent, contestable, and responsible to the people affected by their decisions.
