@@ -4,7 +4,7 @@ title: The Little City
 permalink: /little-city/
 ---
 
-# The Little City
+**The Little City**
 
 **A complete sovereign installation — your AI, your record, your hardware.**
 
