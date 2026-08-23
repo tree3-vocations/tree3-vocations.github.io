@@ -6,7 +6,7 @@ permalink: /demo/
 
 **AI-2033 — A Participatory Fiction**
 
-**Meet Eri. She lives in a future we haven't built yet — but might.**
+**_Meet Eri. She lives in a future we haven't built yet — but might._**
 
 ---
 
