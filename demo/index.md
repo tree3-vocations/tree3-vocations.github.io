@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AI-2033 Demo | TREE(3) Vocations"
+title: "AI-2033 Demo"
 permalink: /demo/
 ---
 
