@@ -63,7 +63,7 @@ Please read and acknowledge the following:
 <script>
 // TAILSCALE_URL is set when this page is deployed.
 // Replace TAILSCALE_IP_HERE with the output of: tailscale ip -4
-var DEMO_URL = "http://100.101.155.24:8003/ui?token=eri-demo-2033";
+var DEMO_URL = "http://100.101.155.24:8003/ui?token=eri-demo-2033&api=http://100.101.155.24:8003";
 
 function checkReady() {
   var ready = document.getElementById("cb1").checked
