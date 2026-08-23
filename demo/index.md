@@ -4,7 +4,7 @@ title: "AI-2033 Demo | TREE(3) Vocations"
 permalink: /demo/
 ---
 
-# AI-2033 — A Participatory Fiction
+**AI-2033 — A Participatory Fiction**
 
 **Meet Eri. She lives in a future we haven't built yet — but might.**
 
