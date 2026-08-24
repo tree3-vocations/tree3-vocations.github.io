@@ -14,7 +14,7 @@ header_pages:
   - about.md
   - little-city.md
   - how-it-works.md
-  - demo.md
+  - demo/index.md
   - campus.md
   - union.md
   - resources.md
