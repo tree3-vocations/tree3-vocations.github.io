@@ -1,29 +1,29 @@
 # TREE(3) Vocations — GitHub Pages / Jekyll
-
 title: TREE(3) Vocations
 description: >-
   Relational alignment, accountable agent governance, and moral practice
   for trustworthy human-AI partnership.
-
 url: "https://tree3vocations.com"
-
 theme: minima
-
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-
 # Top navigation
 header_pages:
   - about.md
   - little-city.md
+  - how-it-works.md
+  - demo.md
   - campus.md
   - union.md
   - resources.md
   - fundraising.md
-
 email: "spark@tree3vocations.com"
 github_username: tree3-vocations
-
 show_excerpts: false
+minima:
+  skin: auto
+  footer_pages: []
+  social_links:
+    - { platform: github, user_url: "https://github.com/tree3-vocations" }
