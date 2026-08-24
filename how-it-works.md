@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "How the Little City Works | TREE(3) Vocations"
+title: "How It Works"
 permalink: /how-it-works/
 ---
 
-# How the Little City Works
-## And why it matters for business
+## How the Little City Works
+**And why it matters for business**
 
 ---
 
